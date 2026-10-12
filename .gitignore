@@ -21,3 +21,6 @@ secrets*
 # OS Files
 .DS_Store
 Thumbs.db
+
+# Scratch dev files
+scratch/
