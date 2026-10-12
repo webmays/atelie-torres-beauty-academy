@@ -1,0 +1,23 @@
+﻿# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Production build
+dist/
+build/
+out/
+.next/
+
+# Environment and secrets
+.env
+.env.local
+.env.*
+*.pem
+*.key
+credentials*
+secrets*
+
+# OS Files
+.DS_Store
+Thumbs.db
